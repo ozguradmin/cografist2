@@ -1,0 +1,202 @@
+[
+  {
+    "id": "fc_bolge_001",
+    "konu": "bolgeler",
+    "soru": "Türkiye'nin 7 coğrafi bölgesini sayınız",
+    "cevap": "7 Coğrafi Bölge",
+    "aciklama": "Karadeniz, Marmara, Ege, Akdeniz, İç Anadolu, Doğu Anadolu, Güneydoğu Anadolu",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_bolge_002",
+    "konu": "bolgeler",
+    "soru": "Türkiye'nin en kalabalık bölgesi hangisidir?",
+    "cevap": "Marmara Bölgesi",
+    "aciklama": "İstanbul ile birlikte Türkiye nüfusunun yaklaşık %30'u Marmara'da yaşar.",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_bolge_003",
+    "konu": "bolgeler",
+    "soru": "Karadeniz Bölgesi'nin en önemli tarım ürünü nedir?",
+    "cevap": "Fındık & Çay",
+    "aciklama": "Türkiye dünya fındık üretiminin ~%70'ini karşılar. Çay ise Rize'de yetişir.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_bolge_004",
+    "konu": "bolgeler",
+    "soru": "En az nüfusa sahip bölgemiz hangisidir?",
+    "cevap": "Doğu Anadolu Bölgesi",
+    "aciklama": "Sert iklim ve engebeli arazi nedeniyle nüfus yoğunluğu en düşük bölgedir.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss"]
+  },
+  {
+    "id": "fc_bolge_005",
+    "konu": "bolgeler",
+    "soru": "Güneydoğu Anadolu Bölgesi'nin en büyük şehri hangisidir?",
+    "cevap": "Gaziantep",
+    "aciklama": "Gaziantep, Güneydoğu Anadolu'nun en kalabalık ve en gelişmiş sanayi şehridir.",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_dag_001",
+    "konu": "daglar",
+    "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+    "cevap": "Ağrı Dağı (5137 m)",
+    "aciklama": "Doğu Anadolu'da, Ağrı iline bağlı stratovolkanik dağdır.",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_dag_002",
+    "konu": "daglar",
+    "soru": "Toros Dağları hangi bölgede yer alır?",
+    "cevap": "Akdeniz Bölgesi",
+    "aciklama": "Toros Dağları Akdeniz kıyısı boyunca uzanır ve Akdeniz ile İç Anadolu'yu birbirinden ayırır.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_dag_003",
+    "konu": "daglar",
+    "soru": "Erciyes Dağı hangi şehirdedir?",
+    "cevap": "Kayseri",
+    "aciklama": "3917 metre yüksekliğiyle İç Anadolu'nun en yüksek dağıdır.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss"]
+  },
+  {
+    "id": "fc_dag_004",
+    "konu": "daglar",
+    "soru": "Anadolu'nun çatısı olarak bilinen yer neresidir?",
+    "cevap": "Doğu Anadolu Yaylaları",
+    "aciklama": "Ortalama yüksekliği 1500-2000 m arasında olan Doğu Anadolu, Türkiye'nin en yüksek yaylasıdır.",
+    "gorsel": null,
+    "zorluk": 3,
+    "sinav": ["yks", "kpss"]
+  },
+  {
+    "id": "fc_gol_001",
+    "konu": "gol_deniz",
+    "soru": "Türkiye'nin en büyük gölü hangisidir?",
+    "cevap": "Van Gölü (3713 km²)",
+    "aciklama": "Dünyanın en büyük soda gölü olan Van Gölü tuzlu ve sodalı bir iç gölüdür.",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_gol_002",
+    "konu": "gol_deniz",
+    "soru": "Türkiye'nin en derin gölü hangisidir?",
+    "cevap": "Hazar Gölü",
+    "aciklama": "Elazığ ilinde yer alır. Derinliği ~216 metredir.",
+    "gorsel": null,
+    "zorluk": 3,
+    "sinav": ["yks", "kpss"]
+  },
+  {
+    "id": "fc_gol_003",
+    "konu": "gol_deniz",
+    "soru": "Tuz Gölü hangi ilde yer alır?",
+    "cevap": "Ankara / Konya / Aksaray",
+    "aciklama": "Türkiye'nin 2. büyük gölü ve en önemli tuz üretim merkezidir.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_akar_001",
+    "konu": "akarsular",
+    "soru": "Türkiye'nin en uzun nehri hangisidir?",
+    "cevap": "Kızılırmak (1355 km)",
+    "aciklama": "Sivas'tan doğar, Karadeniz'e dökülür. Türkiye sınırları içindeki en uzun nehirdir.",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_akar_002",
+    "konu": "akarsular",
+    "soru": "Fırat ve Dicle hangi denize dökülür?",
+    "cevap": "Basra Körfezi (Hürmüz)",
+    "aciklama": "Her iki nehir Irak'ta birleşerek Şattülarap adını alır ve Basra Körfezi'ne ulaşır.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss"]
+  },
+  {
+    "id": "fc_akar_003",
+    "konu": "akarsular",
+    "soru": "GAP projesi hangi nehirler üzerinde kurulmuştur?",
+    "cevap": "Fırat ve Dicle",
+    "aciklama": "Güneydoğu Anadolu Projesi 22 baraj ve 19 HES içerir. Atatürk Barajı en büyüğüdür.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_iklim_001",
+    "konu": "iklim",
+    "soru": "Karadeniz ikliminin temel özelliği nedir?",
+    "cevap": "Her mevsim yağışlı",
+    "aciklama": "Karadeniz kıyıları yıl boyunca yağış alır. En yağışlı bölgesi Rize'dir (2200+ mm/yıl).",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_iklim_002",
+    "konu": "iklim",
+    "soru": "Akdeniz ikliminde yazlar nasıldır?",
+    "cevap": "Sıcak ve kurak",
+    "aciklama": "Akdeniz ikliminde yazlar sıcak/kurak, kışlar ılık/yağışlıdır.",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_iklim_003",
+    "konu": "iklim",
+    "soru": "Step (bozkır) iklimine sahip başlıca bölge hangisidir?",
+    "cevap": "İç Anadolu",
+    "aciklama": "Az yağışlı, karasal özelliktedir. Yazlar sıcak, kışlar soğuk ve karlıdır.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss"]
+  },
+  {
+    "id": "fc_tarim_001",
+    "konu": "tarim",
+    "soru": "Türkiye'de en fazla buğday hangi bölgede üretilir?",
+    "cevap": "İç Anadolu Bölgesi",
+    "aciklama": "Konya ovası ve çevresi buğday üretiminin merkezidir. 'Türkiye'nin tahıl ambarı' olarak bilinir.",
+    "gorsel": null,
+    "zorluk": 2,
+    "sinav": ["yks", "kpss", "lgs"]
+  },
+  {
+    "id": "fc_tarim_002",
+    "konu": "tarim",
+    "soru": "Zeytin üretiminde öncü bölge hangisidir?",
+    "cevap": "Ege Bölgesi",
+    "aciklama": "Türkiye dünya zeytin üretiminde ilk 5'te yer alır. Ege ve Marmara öne çıkar.",
+    "gorsel": null,
+    "zorluk": 1,
+    "sinav": ["yks", "kpss", "lgs"]
+  }
+]

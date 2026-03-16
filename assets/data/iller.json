@@ -1,0 +1,79 @@
+[
+  {
+    "id": "01", "svgId": "il-adana",    "ad": "Adana",
+    "bolge": "akdeniz",   "nufus": 2274106, "yuzolcumu": 14030,
+    "onemliIlceler": ["Seyhan","Çukurova","Yüreğir"],
+    "cografi": "Çukurova Ovası, Seyhan ve Ceyhan nehirleri",
+    "sinav": { "yks": "Çukurova'nın merkezi, petrokimya sanayi", "kpss": "İBBS TR62", "lgs": "Akdeniz'in en büyük şehri" }
+  },
+  {
+    "id": "06", "svgId": "il-ankara",   "ad": "Ankara",
+    "bolge": "ic_anadolu","nufus": 5747325, "yuzolcumu": 25706,
+    "onemliIlceler": ["Çankaya","Keçiören","Mamak"],
+    "cografi": "İç Anadolu platosu, Ankara Çayı",
+    "sinav": { "yks": "Başkent, devlet kurumları, ODTÜ/Hacettepe", "kpss": "Merkezi yönetim merkezi", "lgs": "Türkiye'nin başkenti" }
+  },
+  {
+    "id": "34", "svgId": "il-istanbul", "ad": "İstanbul",
+    "bolge": "marmara",   "nufus": 15840900,"yuzolcumu": 5343,
+    "onemliIlceler": ["Kadıköy","Beşiktaş","Fatih","Üsküdar"],
+    "cografi": "İstanbul Boğazı, Haliç, Marmara ve Karadeniz kıyısı",
+    "sinav": { "yks": "Sanayi, finans, turizm, kültür merkezi. Boğaz stratejik önemi", "kpss": "TR1 bölgesi, en kalabalık il", "lgs": "Türkiye'nin en büyük şehri" }
+  },
+  {
+    "id": "35", "svgId": "il-izmir",    "ad": "İzmir",
+    "bolge": "ege",       "nufus": 4425789, "yuzolcumu": 12012,
+    "onemliIlceler": ["Konak","Bornova","Karşıyaka"],
+    "cografi": "İzmir Körfezi, Gediz ve Küçük Menderes nehirleri",
+    "sinav": { "yks": "Ege'nin en büyük limanı, ihracat merkezi, serbest ticaret", "kpss": "TR31 bölgesi", "lgs": "Türkiye'nin 3. büyük şehri" }
+  },
+  {
+    "id": "07", "svgId": "il-antalya",  "ad": "Antalya",
+    "bolge": "akdeniz",   "nufus": 2688004, "yuzolcumu": 20591,
+    "onemliIlceler": ["Muratpaşa","Kepez","Alanya","Konyaaltı"],
+    "cografi": "Torosların güney etekleri, Akdeniz kıyısı",
+    "sinav": { "yks": "Turizm merkezi, tarım: portakal/domates, Toros geçitleri", "kpss": "TR61 bölgesi", "lgs": "Türkiye'nin en önemli turizm şehri" }
+  },
+  {
+    "id": "16", "svgId": "il-bursa",    "ad": "Bursa",
+    "bolge": "marmara",   "nufus": 3194720, "yuzolcumu": 11043,
+    "onemliIlceler": ["Osmangazi","Nilüfer","Yıldırım"],
+    "cografi": "Uludağ (2543 m), Bursa Ovası, Marmara Gölü",
+    "sinav": { "yks": "Osmanlı'nın 1. başkenti, otomotiv sanayi (OİB), ipek", "kpss": "TR41 bölgesi", "lgs": "Marmara'nın 2. büyük şehri" }
+  },
+  {
+    "id": "42", "svgId": "il-konya",    "ad": "Konya",
+    "bolge": "ic_anadolu","nufus": 2320832, "yuzolcumu": 38873,
+    "onemliIlceler": ["Selçuklu","Meram","Karatay"],
+    "cografi": "Konya Kapalı Havzası, en büyük iç ova",
+    "sinav": { "yks": "Türkiye'nin en büyük ovası, tahıl ambarı, Mevlana", "kpss": "TR52 bölgesi, yüzölçümüyle büyük", "lgs": "İç Anadolu'nun en büyük şehri" }
+  },
+  {
+    "id": "55", "svgId": "il-samsun",   "ad": "Samsun",
+    "bolge": "karadeniz", "nufus": 1368488, "yuzolcumu": 9579,
+    "onemliIlceler": ["Atakum","Canik","İlkadım"],
+    "cografi": "Kızılırmak ve Yeşilırmak deltası, Karadeniz kıyısı",
+    "sinav": { "yks": "Karadeniz'in en büyük limanı, Kurtuluş Savaşı başlangıcı", "kpss": "TR83 bölgesi", "lgs": "Karadeniz'in en önemli şehri" }
+  },
+  {
+    "id": "65", "svgId": "il-van",      "ad": "Van",
+    "bolge": "dogu_anadolu","nufus": 1150789,"yuzolcumu": 19069,
+    "onemliIlceler": ["İpekyolu","Edremit","Tuşba"],
+    "cografi": "Van Gölü kıyısı (3713 km²), İran sınırı",
+    "sinav": { "yks": "Van Gölü (Türkiye'nin en büyük gölü, soda gölü), tarihî geçit noktası", "kpss": "TRC2 bölgesi", "lgs": "Van Gölü kıyısında" }
+  },
+  {
+    "id": "27", "svgId": "il-gaziantep","ad": "Gaziantep",
+    "bolge": "guneydogu", "nufus": 2154051, "yuzolcumu": 7642,
+    "onemliIlceler": ["Şahinbey","Şehitkamil"],
+    "cografi": "Güneydoğu platosu, Fırat'a yakın",
+    "sinav": { "yks": "Tekstil ve sanayi merkezi, bakır işlemeciliği, fıstık/baklava", "kpss": "TRC1 bölgesi, Gaziantep OSB", "lgs": "Güneydoğu'nun en büyük şehri" }
+  },
+  {
+    "id": "53", "svgId": "il-rize",     "ad": "Rize",
+    "bolge": "karadeniz", "nufus": 342772,  "yuzolcumu": 3920,
+    "onemliIlceler": ["Rize Merkez","Çayeli","Ardeşen"],
+    "cografi": "Kaçkar Dağları (3937 m), en yağışlı kıyı şeridi",
+    "sinav": { "yks": "Türkiye'nin tüm çayı burada üretilir; yılda 2200+ mm yağış", "kpss": "TR90 bölgesi", "lgs": "Türkiye'nin çay şehri" }
+  }
+]

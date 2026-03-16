@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q_bolge_001",
+    "soru": "Türkiye'nin en uzun nehri aşağıdakilerden hangisidir?",
+    "secenekler": ["Kızılırmak", "Fırat", "Sakarya", "Dicle"],
+    "dogru": 0,
+    "konu": "akarsular",
+    "aciklama": "Kızılırmak 1355 km ile Türkiye sınırları içindeki en uzun nehirdir.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 1
+  },
+  {
+    "id": "q_bolge_002",
+    "soru": "Karadeniz Bölgesi'nde hangi iklim tipi hâkimdir?",
+    "secenekler": ["Akdeniz iklimi", "Karasal iklim", "Karadeniz iklimi", "Step iklimi"],
+    "dogru": 2,
+    "konu": "iklim",
+    "aciklama": "Her mevsim yağışlı iklim tipidir. En fazla yağış Rize'de görülür.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 1
+  },
+  {
+    "id": "q_bolge_003",
+    "soru": "Türkiye'nin en büyük gölü hangisidir?",
+    "secenekler": ["Burdur Gölü", "Tuz Gölü", "Van Gölü", "Eğirdir Gölü"],
+    "dogru": 2,
+    "konu": "gol_deniz",
+    "aciklama": "Van Gölü 3713 km² yüzölçümüyle Türkiye'nin en büyük ve dünyanın en büyük soda gölüdür.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 1
+  },
+  {
+    "id": "q_bolge_004",
+    "soru": "Ege Bölgesi'nin en önemli tarım ürünü aşağıdakilerden hangisidir?",
+    "secenekler": ["Buğday", "Zeytin ve üzüm", "Mısır", "Şeker pancarı"],
+    "dogru": 1,
+    "konu": "tarim",
+    "aciklama": "Ege Bölgesi zeytin, üzüm, incir ve pamuk üretiminde öncü bölgedir.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 1
+  },
+  {
+    "id": "q_bolge_005",
+    "soru": "Türkiye'nin başkenti hangi coğrafi bölgede yer almaktadır?",
+    "secenekler": ["Marmara Bölgesi", "İç Anadolu Bölgesi", "Karadeniz Bölgesi", "Ege Bölgesi"],
+    "dogru": 1,
+    "konu": "bolgeler",
+    "aciklama": "Ankara, İç Anadolu Bölgesi'nde yer alır. Türkiye'nin başkenti ve 2. büyük şehridir.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 1
+  },
+  {
+    "id": "q_bolge_006",
+    "soru": "Ağrı Dağı'nın yüksekliği kaç metredir?",
+    "secenekler": ["4500 m", "4800 m", "5137 m", "5500 m"],
+    "dogru": 2,
+    "konu": "daglar",
+    "aciklama": "Ağrı Dağı 5137 metre ile Türkiye'nin ve Kafkasya'nın en yüksek zirvesidir.",
+    "sinav": ["yks", "kpss"],
+    "zorluk": 2
+  },
+  {
+    "id": "q_bolge_007",
+    "soru": "GAP Projesi hangi nehirler üzerinde uygulanmaktadır?",
+    "secenekler": ["Kızılırmak ve Sakarya", "Fırat ve Dicle", "Seyhan ve Ceyhan", "Yeşilırmak ve Kızılırmak"],
+    "dogru": 1,
+    "konu": "akarsular",
+    "aciklama": "Güneydoğu Anadolu Projesi (GAP), Fırat ve Dicle nehirleri havzasında 22 baraj içerir.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 1
+  },
+  {
+    "id": "q_bolge_008",
+    "soru": "Türkiye'nin en fazla yağış alan yeri hangisidir?",
+    "secenekler": ["İstanbul", "Trabzon", "Rize", "Antalya"],
+    "dogru": 2,
+    "konu": "iklim",
+    "aciklama": "Rize yılda 2200 mm ve üzeri yağışla Türkiye'nin en yağışlı ilidir.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 2
+  },
+  {
+    "id": "q_bolge_009",
+    "soru": "Türkiye'de buğday üretiminin merkezi olan ova aşağıdakilerden hangisidir?",
+    "secenekler": ["Çukurova", "Konya Ovası", "Gediz Ovası", "Bafra Ovası"],
+    "dogru": 1,
+    "konu": "tarim",
+    "aciklama": "Konya Ovası Türkiye'nin en büyük ovasıdır ve tahıl üretiminin merkezidir.",
+    "sinav": ["yks", "kpss"],
+    "zorluk": 2
+  },
+  {
+    "id": "q_bolge_010",
+    "soru": "Aşağıdaki illerden hangisi Marmara Bölgesi'nde yer almaz?",
+    "secenekler": ["Bursa", "Edirne", "Kocaeli", "Bolu"],
+    "dogru": 3,
+    "konu": "bolgeler",
+    "aciklama": "Bolu, Batı Karadeniz Bölgesi'nde yer alır. Marmara Bölgesi'nde değildir.",
+    "sinav": ["yks", "kpss"],
+    "zorluk": 3
+  },
+  {
+    "id": "q_bolge_011",
+    "soru": "Akdeniz ikliminde yağışlar yılın hangi mevsiminde yoğunlaşır?",
+    "secenekler": ["Yaz", "İlkbahar", "Kış", "Sonbahar"],
+    "dogru": 2,
+    "konu": "iklim",
+    "aciklama": "Akdeniz ikliminde yağışlar kış aylarında yoğunlaşır, yazlar kurak geçer.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 1
+  },
+  {
+    "id": "q_bolge_012",
+    "soru": "Tuz Gölü hangi coğrafi bölgededir?",
+    "secenekler": ["Ege Bölgesi", "Akdeniz Bölgesi", "İç Anadolu Bölgesi", "Güneydoğu Anadolu"],
+    "dogru": 2,
+    "konu": "gol_deniz",
+    "aciklama": "Tuz Gölü İç Anadolu'dadır; Ankara, Konya ve Aksaray illeri arasında yer alır.",
+    "sinav": ["yks", "kpss", "lgs"],
+    "zorluk": 2
+  }
+]
