@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../core/theme/app_colors.dart';
+import 'package:cografist/core/theme/app_colors.dart';
 
 enum BadgeCategory { il, bolge, konu, ozel }
 

@@ -3,14 +3,14 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import '../providers/app_providers.dart';
 import 'package:cografist/services/hive_service.dart';
-import '../../features/onboarding/views/onboarding_screen.dart';
-import '../../features/auth/views/auth_screen.dart';
-import '../../features/auth/views/exam_select_screen.dart';
-import '../../features/home/views/home_screen.dart';
-import '../../features/map/views/map_screen.dart';
-import '../../features/flashcard/views/flashcard_list_screen.dart';
-import '../../features/flashcard/views/flashcard_play_screen.dart';
-import '../../features/profile/views/profile_screen.dart';
+import 'package:cografist/features/onboarding/views/onboarding_screen.dart';
+import 'package:cografist/features/auth/views/auth_screen.dart';
+import 'package:cografist/features/auth/views/exam_select_screen.dart';
+import 'package:cografist/features/home/views/home_screen.dart';
+import 'package:cografist/features/map/views/map_screen.dart';
+import 'package:cografist/features/flashcard/views/flashcard_list_screen.dart';
+import 'package:cografist/features/flashcard/views/flashcard_play_screen.dart';
+import 'package:cografist/features/profile/views/profile_screen.dart';
 import 'package:cografist/shared/widgets/main_shell.dart';
 
 final routerProvider = Provider<GoRouter>((ref) {

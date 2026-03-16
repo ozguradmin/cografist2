@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'dart:math' as math;
-import '../../../core/theme/app_colors.dart';
-import '../../../core/providers/app_providers.dart';
-import '../../../models/flash_card.dart';
-import '../../../services/content_service.dart';
-import '../../../services/hive_service.dart';
-import '../../../shared/utils/haptics.dart';
+import 'package:cografist/core/theme/app_colors.dart';
+import 'package:cografist/core/providers/app_providers.dart';
+import 'package:cografist/models/flash_card.dart';
+import 'package:cografist/services/content_service.dart';
+import 'package:cografist/services/hive_service.dart';
+import 'package:cografist/shared/utils/haptics.dart';
 
 class FlashCardPlayScreen extends ConsumerStatefulWidget {
   final String konu;

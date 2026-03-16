@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import '../../../core/theme/app_colors.dart';
-import '../../../core/providers/app_providers.dart';
-import '../../../services/content_service.dart';
-import '../../../services/hive_service.dart';
+import 'package:cografist/core/theme/app_colors.dart';
+import 'package:cografist/core/providers/app_providers.dart';
+import 'package:cografist/services/content_service.dart';
+import 'package:cografist/services/hive_service.dart';
 
 class FlashCardListScreen extends ConsumerWidget {
   const FlashCardListScreen({super.key});

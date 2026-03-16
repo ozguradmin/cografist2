@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import '../../../core/theme/app_colors.dart';
-import '../../../core/providers/app_providers.dart';
-import '../../../models/question.dart';
-import '../../../shared/widgets/app_widgets.dart';
-import '../../../shared/utils/haptics.dart';
+import 'package:cografist/core/theme/app_colors.dart';
+import 'package:cografist/core/providers/app_providers.dart';
+import 'package:cografist/models/question.dart';
+import 'package:cografist/shared/widgets/app_widgets.dart';
+import 'package:cografist/shared/utils/haptics.dart';
 
 class MapScreen extends ConsumerStatefulWidget {
   const MapScreen({super.key});

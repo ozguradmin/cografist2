@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../core/theme/app_colors.dart';
+import 'package:cografist/core/theme/app_colors.dart';
 
 // Streak pill (🔥 12 gün)
 class StreakPill extends StatelessWidget {

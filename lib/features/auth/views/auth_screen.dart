@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:go_router/go_router.dart';
-import '../../../core/theme/app_colors.dart';
-import '../../../services/firebase_service.dart';
+import 'package:cografist/core/theme/app_colors.dart';
+import 'package:cografist/services/firebase_service.dart';
 
 class AuthScreen extends StatefulWidget {
   const AuthScreen({super.key});
