@@ -1,6 +1,6 @@
 import 'package:hive_flutter/hive_flutter.dart';
-import '../models/user_progress.dart';
-import '../models/flash_card.dart';
+import 'package:cografist/models/user_progress.dart';
+import 'package:cografist/models/flash_card.dart';
 
 class HiveService {
   static const _progressBox    = 'user_progress';

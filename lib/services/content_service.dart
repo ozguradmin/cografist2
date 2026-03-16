@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
-import '../models/flash_card.dart';
-import '../models/question.dart';
-import '../models/il_model.dart';
+import 'package:cografist/models/flash_card.dart';
+import 'package:cografist/models/question.dart';
+import 'package:cografist/models/il_model.dart';
 
 class ContentService {
   static ContentService? _instance;

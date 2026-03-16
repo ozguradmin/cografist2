@@ -1,9 +1,9 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import '../../services/firebase_service.dart';
-import '../../services/hive_service.dart';
-import '../../services/content_service.dart';
-import '../../models/user_progress.dart';
+import 'package:cografist/services/firebase_service.dart';
+import 'package:cografist/services/hive_service.dart';
+import 'package:cografist/services/content_service.dart';
+import 'package:cografist/models/user_progress.dart';
 
 // Auth stream
 final authStateProvider = StreamProvider<User?>((ref) {

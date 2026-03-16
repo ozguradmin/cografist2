@@ -1,0 +1,7 @@
+#TYPE Selected.Microsoft.PowerShell.Commands.MatchInfo
+"Path","LineNumber","Line"
+"C:\dev\cografist2\lib\services\content_service.dart","3","import '../models/flash_card.dart';"
+"C:\dev\cografist2\lib\services\content_service.dart","4","import '../models/question.dart';"
+"C:\dev\cografist2\lib\services\content_service.dart","5","import '../models/il_model.dart';"
+"C:\dev\cografist2\lib\services\hive_service.dart","2","import '../models/user_progress.dart';"
+"C:\dev\cografist2\lib\services\hive_service.dart","3","import '../models/flash_card.dart';"
